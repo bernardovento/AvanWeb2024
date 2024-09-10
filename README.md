@@ -65,6 +65,7 @@ Depois de instalado, basta atualizar o script de execução do projeto para:
 ## Configurando o Prisma ORM
 
 - https://www.prisma.io/docs/getting-started/quickstart
+- npx prisma generate
 
 Vamos configurar o Prisma ORM com o seguinte schema de dados
 
